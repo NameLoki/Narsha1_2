@@ -46,8 +46,8 @@
 <img width="285" hight="220" src="https://github.com/NameLoki/Narsha1_2/blob/master/image/H6.PNG">
   </div>
 <div>
-<img width="570" hight="440"src="https://github.com/NameLoki/Narsha1_2/blob/master/image/Playing.PNG">
-<img width="570" hight="440"src="https://github.com/NameLoki/Narsha1_2/blob/master/image/Result.png">
+<img width="427" hight="330"src="https://github.com/NameLoki/Narsha1_2/blob/master/image/Playing.PNG">
+<img width="427" hight="330"src="https://github.com/NameLoki/Narsha1_2/blob/master/image/Result.png">
   </div>
 <img src="https://github.com/NameLoki/Narsha1_2/blob/master/image/swing.png">
 
