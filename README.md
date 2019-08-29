@@ -15,4 +15,4 @@
 ### 김태윤 : 유니티 블루투스 통신, 판정 구현
 
 ##사진들
-![Uploading https://github.com/NameLoki/Narsha1_2/blob/master/image/%ED%95%98%EB%93%9C%EC%9B%A8%EC%96%B4%EC%82%AC%EC%A7%84.png…]()
+<img src="https://github.com/NameLoki/Narsha1_2/blob/master/image/%ED%95%98%EB%93%9C%EC%9B%A8%EC%96%B4%EC%82%AC%EC%A7%84.png">
