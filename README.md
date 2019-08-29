@@ -34,24 +34,16 @@
   </div>
 
 ## 사진들
-<tabel width="400">
-  <thead>
-    <tr>
-        <img src="https://github.com/NameLoki/Narsha1_2/blob/master/image/%ED%95%98%EB%93%9C%EC%9B%A8%EC%96%B4%EC%82%AC%EC%A7%84.png">
-        <img src="https://github.com/NameLoki/Narsha1_2/blob/master/image/E1.PNG">
-        <img src="https://github.com/NameLoki/Narsha1_2/blob/master/image/H2.PNG">
-        <img src="https://github.com/NameLoki/Narsha1_2/blob/master/image/E3.PNG">
-        <img src="https://github.com/NameLoki/Narsha1_2/blob/master/image/H4.PNG">
-        <img src="https://github.com/NameLoki/Narsha1_2/blob/master/image/E5.PNG">
-        <img src="https://github.com/NameLoki/Narsha1_2/blob/master/image/H6.PNG">
-        <img src="https://github.com/NameLoki/Narsha1_2/blob/master/image/Playing.PNG">
-        <img src="https://github.com/NameLoki/Narsha1_2/blob/master/image/Result.png">
-        <img src="https://github.com/NameLoki/Narsha1_2/blob/master/image/swing.png">
-      <tr>
-    </thead>
-  <tbody>
-  </tbody>
-  </tabel>
+<img src="https://github.com/NameLoki/Narsha1_2/blob/master/image/%ED%95%98%EB%93%9C%EC%9B%A8%EC%96%B4%EC%82%AC%EC%A7%84.png">
+<img src="https://github.com/NameLoki/Narsha1_2/blob/master/image/E1.PNG">
+<img src="https://github.com/NameLoki/Narsha1_2/blob/master/image/H2.PNG">
+<img src="https://github.com/NameLoki/Narsha1_2/blob/master/image/E3.PNG">
+<img src="https://github.com/NameLoki/Narsha1_2/blob/master/image/H4.PNG">
+<img src="https://github.com/NameLoki/Narsha1_2/blob/master/image/E5.PNG">
+<img src="https://github.com/NameLoki/Narsha1_2/blob/master/image/H6.PNG">
+<img src="https://github.com/NameLoki/Narsha1_2/blob/master/image/Playing.PNG">
+<img src="https://github.com/NameLoki/Narsha1_2/blob/master/image/Result.png">
+<img src="https://github.com/NameLoki/Narsha1_2/blob/master/image/swing.png">
 
 ## 영상
 http://www.dgsw.hs.kr/board/view.do?boardId=BBS_0000001&menuCd=MCD_000000000000029972&startPage=1&dataSid=21014958
