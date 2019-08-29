@@ -36,9 +36,9 @@
 ## 사진들
 <img src="https://github.com/NameLoki/Narsha1_2/blob/master/image/%ED%95%98%EB%93%9C%EC%9B%A8%EC%96%B4%EC%82%AC%EC%A7%84.png">
 <div>
-  <img width="320" hight="220" src="https://github.com/NameLoki/Narsha1_2/blob/master/image/E1.PNG">
-  <img width="320" hight="220" src="https://github.com/NameLoki/Narsha1_2/blob/master/image/H2.PNG">
-  <img width="320" hight="220" src="https://github.com/NameLoki/Narsha1_2/blob/master/image/E3.PNG">
+  <img width="300" hight="220" src="https://github.com/NameLoki/Narsha1_2/blob/master/image/E1.PNG">
+  <img width="300" hight="220" src="https://github.com/NameLoki/Narsha1_2/blob/master/image/H2.PNG">
+  <img width="300" hight="220" src="https://github.com/NameLoki/Narsha1_2/blob/master/image/E3.PNG">
   </div>
 <div>
 <img src="https://github.com/NameLoki/Narsha1_2/blob/master/image/H4.PNG">
