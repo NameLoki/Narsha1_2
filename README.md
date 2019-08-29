@@ -33,7 +33,7 @@
   <img width="125" hight="125"  src="https://github.com/NameLoki/Narsha1_2/blob/master/image/fl_logo.jpg">
   </div>
 
-## 사진들
+## 사진
 <img src="https://github.com/NameLoki/Narsha1_2/blob/master/image/%ED%95%98%EB%93%9C%EC%9B%A8%EC%96%B4%EC%82%AC%EC%A7%84.png">
 <div>
   <img width="285" hight="220" src="https://github.com/NameLoki/Narsha1_2/blob/master/image/E1.PNG">
