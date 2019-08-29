@@ -23,7 +23,7 @@
 
 ## 사용도구
 <div>
-  <img width="220" hight="220" src="https://github.com/NameLoki/Narsha1_2/blob/master/image/vs_logo.png">
+  <img width="400" hight="220" src="https://github.com/NameLoki/Narsha1_2/blob/master/image/vs_logo.png">
   <img width="220" hight="220"  src="https://github.com/NameLoki/Narsha1_2/blob/master/image/vscode_logo.png">
   <img width="220" hight="220"  src="https://github.com/NameLoki/Narsha1_2/blob/master/image/arduino_logo.jpg">
  </div>
@@ -35,12 +35,16 @@
 
 ## 사진들
 <img src="https://github.com/NameLoki/Narsha1_2/blob/master/image/%ED%95%98%EB%93%9C%EC%9B%A8%EC%96%B4%EC%82%AC%EC%A7%84.png">
-<img src="https://github.com/NameLoki/Narsha1_2/blob/master/image/E1.PNG">
-<img src="https://github.com/NameLoki/Narsha1_2/blob/master/image/H2.PNG">
-<img src="https://github.com/NameLoki/Narsha1_2/blob/master/image/E3.PNG">
+<div>
+  <img width="320" hight="220" src="https://github.com/NameLoki/Narsha1_2/blob/master/image/E1.PNG">
+  <img width="320" hight="220" src="https://github.com/NameLoki/Narsha1_2/blob/master/image/H2.PNG">
+  <img width="320" hight="220" src="https://github.com/NameLoki/Narsha1_2/blob/master/image/E3.PNG">
+  </div>
+<div>
 <img src="https://github.com/NameLoki/Narsha1_2/blob/master/image/H4.PNG">
 <img src="https://github.com/NameLoki/Narsha1_2/blob/master/image/E5.PNG">
 <img src="https://github.com/NameLoki/Narsha1_2/blob/master/image/H6.PNG">
+  </div>
 <img src="https://github.com/NameLoki/Narsha1_2/blob/master/image/Playing.PNG">
 <img src="https://github.com/NameLoki/Narsha1_2/blob/master/image/Result.png">
 <img src="https://github.com/NameLoki/Narsha1_2/blob/master/image/swing.png">
