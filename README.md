@@ -1,5 +1,7 @@
 <h1>대구소프트웨어 고등학교 2018년 2학기 나르샤 프로젝트</h1>
-<img src="https://github.com/NameLoki/Narsha1_2/blob/master/image/NeoNio_Logo.PNG"></img>
+<img src="https://github.com/NameLoki/Narsha1_2/blob/master/image/NeoNio_Logo.PNG">
+
+
 ### 팀명 : 6SCV 
 ### 프로젝트 이름 : NEONIO
 #### 게임장르 : 리듬게임<br>
