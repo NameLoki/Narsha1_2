@@ -23,14 +23,14 @@
 
 ## 사용도구
 <div>
-<img width="200" hight="200" src="https://github.com/NameLoki/Narsha1_2/blob/master/image/vs_logo.png">
-<img width="200" hight="200"  src="https://github.com/NameLoki/Narsha1_2/blob/master/image/vscode_logo.png">
-<img width="200" hight="200"  src="https://github.com/NameLoki/Narsha1_2/blob/master/image/arduino_logo.jpg">
+<img width="220" hight="220" src="https://github.com/NameLoki/Narsha1_2/blob/master/image/vs_logo.png">
+<img width="220" hight="220"  src="https://github.com/NameLoki/Narsha1_2/blob/master/image/vscode_logo.png">
+<img width="220" hight="220"  src="https://github.com/NameLoki/Narsha1_2/blob/master/image/arduino_logo.jpg">
  </div>
  <div>
-<img width="200" hight="200"  src="https://github.com/NameLoki/Narsha1_2/blob/master/image/dev_logo.jpg">
-<img width="200" hight="200"  src="https://github.com/NameLoki/Narsha1_2/blob/master/image/unity_logo.png">
-<img width="200" hight="200"  src="https://github.com/NameLoki/Narsha1_2/blob/master/image/fl_logo.jpg">
+<img width="220" hight="220"  src="https://github.com/NameLoki/Narsha1_2/blob/master/image/dev_logo.jpg">
+<img width="220" hight="220"  src="https://github.com/NameLoki/Narsha1_2/blob/master/image/unity_logo.png">
+<img width="220" hight="220"  src="https://github.com/NameLoki/Narsha1_2/blob/master/image/fl_logo.jpg">
   </div>
 
 ## 사진들
