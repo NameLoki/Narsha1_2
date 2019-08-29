@@ -52,3 +52,4 @@
 ## 영상
 http://www.dgsw.hs.kr/board/view.do?boardId=BBS_0000001&menuCd=MCD_000000000000029972&startPage=1&dataSid=21014958
 http://encode3.dge.go.kr/vod.html?vsize_x=600&vsize_y=450&idx=109010
+###16:45 ~ 18:38
